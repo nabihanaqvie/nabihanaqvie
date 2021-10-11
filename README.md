@@ -11,4 +11,4 @@
 - 📚 I am currently working on some Data Science projects and would be happy to collaborate with other Data Scientist on their projects. 
 - 📊 Proficient with Python and its libraries such as NLTK, Yellow Brick, Seaborn 
 - 🌱 Currently learning Go 
-- ⚜️ Fun Fact: I am a gamer, add me on discord: noonbarbarri #0616
+- ⚜️ Fun Fact: I am a gamer, ask to add me on Discord! 
